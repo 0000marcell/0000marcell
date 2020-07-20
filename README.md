@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=0000marcell)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **0000marcell/0000marcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
