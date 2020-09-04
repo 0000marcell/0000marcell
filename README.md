@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 #### Latest blog posts
+* <a href="https://dev.to/____marcell/debugging-node-applications-4e07" />Debugging Node Applicatoins</a>
+* <a href="https://dev.to/____marcell/quickly-copy-path-to-clipboard-8lf" />Quickly Copy Working dir To Clipboard</a>
 * <a href="https://dev.to/____marcell/test-everything-with-jest-27co" />Test Everything With Jest</a>
 * <a href="https://dev.to/____marcell/fear-of-improving-14n5" />Fear Of Improving</a>
 
