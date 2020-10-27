@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on FigmaToCode
+- 🌱 I’m currently learning algorithms and HDL
+- 👯 I’m looking to collaborate on cool projects
+- 💬 Ask me about: what's poppin
+- 📫 How to reach me: 0000marcell@gmail.com
+- ⚡ Fun fact: when I came out the womb I was thuggin
+
 #### Latest blog posts
+* <a href="https://dev.to/____marcell/how-to-debug-failing-tests-in-jest-5fp4" />How To Debug Failing Tests In Jest</a>
 * <a href="https://dev.to/____marcell/fear-of-improving-14n5" />Fear Of Improving</a>
 * <a href="https://dev.to/____marcell/interesting-things-about-javascript-arrays-553d"/>Interesting Things About Javascript Arrays</a>
 * <a href="https://dev.to/____marcell/debugging-node-applications-4e07" />Debugging Node Applicatoins</a>
@@ -12,10 +20,4 @@
 
 
 
-- 🔭 I’m currently working on figma2css
-- 🌱 I’m currently learning rust + webassembly
-- 👯 I’m looking to collaborate on javascript
-- 🤔 I’m looking for help with rust and webassembly
-- 💬 Ask me about: what's poppin
-- 📫 How to reach me: 0000marcell@gmail.com
-- ⚡ Fun fact: when I came out the womb I was thuggin
+
