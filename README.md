@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on FigmaToCode
-- 🌱 I’m currently learning algorithms and HDL
-- 👯 I’m looking to collaborate on cool projects
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning HDL and Algorithms
+- 👯 I’m looking to collaborate 
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
