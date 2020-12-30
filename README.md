@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my website
+- 🔭 I’m currently working on my terminal timer app
 - 🌱 I’m currently learning HDL and Algorithms
 - 👯 I’m looking to collaborate 
 - 💬 Ask me about: what's poppin
