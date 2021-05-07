@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, typescript, react, redux-toolkit, node and rails
-- 🔭 I’m currently working on my terminal clock app on my free time
-- 🌱 I’m currently learning HDL and Algorithms
+I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, typescript, react, redux-toolkit and node 
+- 🔭 I’m currently working on my terminal note app in my free time
+- 🌱 I’m currently learning about Blockchain
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
@@ -20,8 +20,9 @@ I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, typescrip
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0000marcell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=0000marcell)](https://github.com/0000marcell/github-contribution-stats/)
-
+-->
 
 
 
