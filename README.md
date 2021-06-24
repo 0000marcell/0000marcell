@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, typescript, react and node 
 - 🔭 I’m currently working on a note taking app in my free time
-- 🌱 I’m currently learning about Gnu core utils
+- 🌱 I’m currently learning about Gnu coreutils
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
