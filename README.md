@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, typescript, react, redux-toolkit and node 
-- 🔭 I’m currently working on my terminal note app in my free time
-- 🌱 I’m currently learning about Blockchain
+I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, typescript, react and node 
+- 🔭 I’m currently working on a note taking app in my free time
+- 🌱 I’m currently learning about Gnu core utils
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
@@ -10,6 +10,8 @@ I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, ty
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcell-cruz-40313b87" height="22" title="LinkedIn" />](https://www.linkedin.com/in/marcell-cruz-40313b87) 
 
 #### Latest blog posts
+
+* <a href="https://dev.to/____marcell/postgres-indexes-4603" />Postgres indexes</a>
 * <a href="https://dev.to/____marcell/how-to-debug-failing-tests-in-jest-5fp4" />How To Debug Failing Tests In Jest</a>
 * <a href="https://dev.to/____marcell/fear-of-improving-14n5" />Fear Of Improving</a>
 * <a href="https://dev.to/____marcell/interesting-things-about-javascript-arrays-553d"/>Interesting Things About Javascript Arrays</a>
