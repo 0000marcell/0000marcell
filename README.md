@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a web developer the tools that I use are, Archlinux btw, i3wm, st, rails, typescript, react and node 
+I'm a web developer the tools that I use are most of the time, Archlinux btw, i3wm, st, rails, typescript, react and node 
 - 🌱 I’m currently learning about Compilers, Linux and Assembly
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
