@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a web developer the tools that I use are most of the time, Archlinux btw, i3wm, st, rails, typescript, react and node 
-- 🌱 I’m currently learning about Compilers, Linux and Assembly
+I'm a web developer interested in low level programming, distributed systems and databases
+the tools that I use are most of the time, Archlinux btw, i3wm, st, rails, typescript, react and node 
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
@@ -10,6 +10,9 @@ I'm a web developer the tools that I use are most of the time, Archlinux btw, i3
 
 #### Latest blog posts
 
+* <a href="https://dev.to/____marcell/how-to-write-a-programming-language-1o99" />How To Write A Programming Language</a>
+* <a href="https://dev.to/____marcell/assembly-for-javascript-developers-p0h" />Assembly For JavaScript Developers</a>
+* <a href="https://dev.to/____marcell/multiprocessing-communication-with-fifo-queues-4ak4" />Multiprocessing Communication With Fifo Queues</a>
 * <a href="https://dev.to/____marcell/postgres-indexes-4603" />Postgres indexes</a>
 * <a href="https://dev.to/____marcell/how-to-debug-failing-tests-in-jest-5fp4" />How To Debug Failing Tests In Jest</a>
 * <a href="https://dev.to/____marcell/fear-of-improving-14n5" />Fear Of Improving</a>
