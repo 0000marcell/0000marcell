@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a web developer interested in low level programming, distributed systems and databases
-the tools that I use are most of the time, Archlinux btw, i3wm, st, rails, typescript, react and node 
+the tools that I use most of the time, Archlinux btw, i3wm, st, rails, typescript, react and node 
 - 💬 Ask me about: what's poppin
 - 📫 How to reach me: 0000marcell@gmail.com
 - ⚡ Fun fact: when I came out the womb I was thuggin
