@@ -1,9 +1,6 @@
 ### Hi there 👋
-I'm a web developer interested in low level programming, distributed systems and databases
-the tools that I use Archlinux btw, i3wm, st, rails, typescript, react and node, trying to give go a try 
-- 💬 Ask me about: what's poppin
+I'm a web developer interested in Archlinux, i3wm, st, Rails, React, and Node.
 - 📫 How to reach me: 0000marcell@gmail.com
-- ⚡ Fun fact: when I came out the womb I was thuggin
 
 [<img src="https://img.shields.io/github/followers/0000marcell?label=follow&style=social" height="22" title="Follow me" />](https://github.com/0000marcell) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcell-cruz-40313b87" height="22" title="LinkedIn" />](https://www.linkedin.com/in/marcell-cruz-40313b87) 
