@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a web developer interested in Archlinux, i3wm, st, Rails, React, and Node.
+I'm a web developer interested in Archlinux, Rails And Ruby.
 - 📫 How to reach me: 0000marcell@gmail.com
 
 [<img src="https://img.shields.io/github/followers/0000marcell?label=follow&style=social" height="22" title="Follow me" />](https://github.com/0000marcell) 
